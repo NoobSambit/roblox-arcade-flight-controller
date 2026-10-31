@@ -1,0 +1,14 @@
+.env
+.env.*
+*.key
+*.pem
+*.rbxl.lock
+*.rbxlx.lock
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+build/
+sourcemap.json
+.DS_Store
+Thumbs.db

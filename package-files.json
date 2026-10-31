@@ -1,0 +1,21 @@
+[
+  ".gitattributes",
+  ".gitignore",
+  "CHANGELOG.md",
+  "LICENSE",
+  "PROVENANCE.md",
+  "README.md",
+  "configs/DefaultHover.luau",
+  "default.project.json",
+  "examples/Audio.client.luau",
+  "examples/Controls.client.luau",
+  "examples/MinimalHover.server.luau",
+  "package-files.json",
+  "src/AerialController.luau",
+  "src/ArcadeMotion.luau",
+  "src/PilotInput.luau",
+  "src/Transmission.luau",
+  "tests/Motion.luau",
+  "tests/Smoke.luau",
+  "tools/check_package.py"
+]

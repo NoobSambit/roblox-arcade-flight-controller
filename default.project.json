@@ -1,0 +1,8 @@
+{
+  "name": "ArcadeFlight",
+  "tree": {
+    "$className": "Folder",
+    "Core": { "$path": "src" },
+    "Configs": { "$path": "configs" }
+  }
+}
